@@ -1,9 +1,5 @@
 # CoffeeShop
 
-### Live Preview Project
-
-[Click Button and View Demo Project](https://mian-ali.github.io/CoffeeShop_htmlCss/)
-
 Responsive Coffee Shop Website using HTML and CSS for frontend and phpMyAdmin and XAMPP for backend.
 
 Features:
